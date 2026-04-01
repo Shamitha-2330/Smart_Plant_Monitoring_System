@@ -145,7 +145,7 @@ It is suitable for:
 
 ## 🎥 Project Demo Video
 
-[Watch Demo Video](https://your-video-link-here.com)
+[Watch Demo Video](https://youtube.com/shorts/3U2IQZvxFuo?feature=share)
 
 ---
 
