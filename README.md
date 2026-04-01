@@ -138,7 +138,9 @@ It is suitable for:
 
 ## 📸 Project Images
 ![System Working](Images/System_Working.png)
+
 ![Blynk Dashboard](Images/Blynk_dashboard.png)
+
 ![OLED Output](Images/OLED_output.png)
 
 ---
