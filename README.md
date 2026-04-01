@@ -137,9 +137,9 @@ It is suitable for:
 ---
 
 ## 📸 Project Images
-![System Setup](images/setup.jpg)
-![Circuit Diagram](images/circuit.png)
-![OLED Output](images/oled.jpg)
+![System Working](Images/System_Working.png)
+![Blynk Dashboard](Images/Blynk_dashboard.png)
+![OLED Output](Images/OLED_output.png)
 
 ---
 
